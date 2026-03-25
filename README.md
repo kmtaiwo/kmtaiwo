@@ -1,61 +1,46 @@
 # Hi, I'm Kola 👋
 
-I’m a Data Scientist focused on applying machine learning and analytics to solve real-world problems. I enjoy turning complex data into clear insights that support better decision-making.
+Data Scientist focused on applying machine learning and statistical analysis to solve real-world problems. I enjoy turning complex data into clear, actionable insights that support decision-making.
 
 ---
 
 ## 🔍 What I Do
 
 - Build predictive models using Python, SQL, and Scikit-learn  
-- Apply statistical analysis and machine learning to practical problems  
+- Apply machine learning and statistical reasoning to business problems  
 - Develop end-to-end workflows: data → features → models → insights  
-- Focus on interpretability, model evaluation, and real-world trade-offs  
+- Focus on interpretability, evaluation, and real-world trade-offs  
 
 ---
 
-## 🧠 Current Focus
-
-- Improving model performance and evaluation (precision, recall, F1)  
-- Handling class imbalance and bias–variance trade-offs  
-- Strengthening end-to-end Data Science project delivery  
-- Preparing for Data Scientist roles in the UK  
-
----
-
-## 📊 Featured Project
+## 📊 Featured Projects
 
 ### 🔗 Social Sphere – Conflict Detection in Social Media  
+- Built a classifier to detect high-conflict interactions  
+- Addressed class imbalance using class weighting  
+- Compared Logistic Regression vs Random Forest  
+- Analysed bias–variance trade-offs  
+
 👉 https://github.com/kmtaiwo/SDS-CP029-social-sphere  
 
-- Built a classifier to detect high-conflict social media interactions  
-- Reframed ordinal target (0–5) into binary classification  
-- Applied Logistic Regression and Random Forest  
-- Addressed class imbalance using class weighting  
-- Analysed bias–variance trade-offs and model performance  
+---
+
+### 🔗 YouTube Sentiment Analysis  
+- Built an NLP pipeline to analyse sentiment in YouTube comments  
+- Cleaned and processed text data using NLP techniques  
+- Applied classification models to detect sentiment patterns  
+- Derived insights from user engagement behaviour  
+
+👉 (link to your new repo after you create it)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**  
 Python • SQL • Pandas • NumPy • Scikit-learn  
-
-**Data & ML**  
-Feature Engineering • Model Evaluation • Classification • Regression  
-
-**Data Engineering & Cloud**  
-AWS • Airflow • Spark • ETL Pipelines  
-
-**Visualisation**  
-Tableau • Power BI • Matplotlib • Seaborn  
-
----
-
-## 🚀 Other Featured Projects
-- 🔹 [Project Name](https://github.com/kmtaiwo/project-link) – Short description of what it does.
-- 🔹 [Project Name](https://github.com/kmtaiwo/project-link) – Short description of what it does.
-- 🔹 [Project Name](https://github.com/kmtaiwo/project-link) – Short description of what it does.
-
+NLP • Machine Learning • Feature Engineering  
+AWS • Airflow • Spark  
+Tableau • Power BI • Matplotlib  
 
 ---
 
