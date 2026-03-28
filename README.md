@@ -36,7 +36,25 @@ Data Scientist based in London, applying machine learning and statistical analys
 👉 (link to your new repo after you create it)
 
 ---
+## Projects ## 📊 Featured Projects
+ 
+**[YouTube Comment Sentiment Analyser](https://github.com/kmtaiwo/youtube-comment-sentiment-analyser)**  
+End-to-end NLP pipeline that extracts YouTube comments via the API, classifies sentiment using Hugging Face transformers, and presents results through a Streamlit dashboard.  
+`Python` · `NLP` · `Hugging Face` · `YouTube API` · `Streamlit`
+ 
+**[Social Media Conflict Detector](https://github.com/kmtaiwo/social-media-conflict-detector)**  
+Binary classifier that predicts high-conflict social media interactions from behavioural features. Compared Logistic Regression and Random Forest, addressed class imbalance with class weighting, and evaluated using F1-score.  
+`Python` · `scikit-learn` · `Classification` · `Feature Engineering`
+ 
+**[Employee Exit Survey Analysis](https://github.com/kmtaiwo/employee-exit-survey-analysis)**  
+Cleaned and analysed employee exit survey data from two Australian public sector organisations to identify patterns in why staff leave and whether dissatisfaction differs by tenure.  
+`Python` · `Pandas` · `Data Cleaning` · `Visualisation`
+ 
+**[Star Wars Survey Analysis](https://github.com/kmtaiwo/star-wars-survey-analysis)**  
+Analysed FiveThirtyEight survey data to explore how demographics shape opinions on Star Wars films, characters, and fandom — with a focus on cleaning messy survey responses.  
+`Python` · `Pandas` · `Survey Analysis` · `Matplotlib`
 
+---
 ## 🛠️ Tech Stack
 
 Python • SQL • Pandas • NumPy • Scikit-learn  
@@ -53,6 +71,9 @@ Tableau • Power BI • Matplotlib
 
 ---
 
-## ⚡ About Me
+## ⚡ About Me & Background
 
 I’m passionate about solving real-world problems with data, continuously improving my skills, and building solutions that create meaningful impact.
+
+I have worked across financial services at Santander (via TCS), BNP Paribas, Co-Operative Bank, and Dell EMC, applying data science to problems like risk pattern detection, customer segmentation, data quality monitoring, and enterprise data migration.
+I hold a BSc in Applied Physics from the University of Lagos and an AWS Certified Cloud Practitioner certification.
