@@ -1,6 +1,7 @@
 # Hi, I'm Kola 👋
 
-Data Scientist focused on applying machine learning and statistical analysis to solve real-world problems. I enjoy turning complex data into clear, actionable insights that support decision-making.
+Data Scientist based in London, applying machine learning and statistical analysis to solve real-world business problems. I build predictive models and analytics workflows that turn complex data into clear, actionable insights.
+
 
 ---
 
@@ -12,6 +13,7 @@ Data Scientist focused on applying machine learning and statistical analysis to 
 - Focus on interpretability, evaluation, and real-world trade-offs  
 
 ---
+
 
 ## 📊 Featured Projects
 
